@@ -7,3 +7,8 @@
 
 Browser bat text.
 UPPRECASE
+
+## Картинки
+Это яблоко
+
+![Это яблоко](apple.jpeg)
