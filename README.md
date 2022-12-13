@@ -4,4 +4,6 @@
 
 Добавил текст через браузер. Add english text in browser.
 
+
+Browser bat text.
 UPPRECASE
