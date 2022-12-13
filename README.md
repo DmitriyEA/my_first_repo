@@ -9,6 +9,6 @@ Browser bat text.
 UPPRECASE
 
 ## Картинки
-Это яблоко
+Это яблоко. This is apple.
 
 ![Это яблоко](apple.jpeg)
